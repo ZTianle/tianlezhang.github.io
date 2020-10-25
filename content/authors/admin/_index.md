@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: University of Exeter
-    year: Present
+    year: 
   - course: MSc in Statistics
     institution: Central South University
     year: 2020
