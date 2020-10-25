@@ -73,6 +73,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently aPh.D student supervised by Dr.Wenjie Ruan at Trust AI Lab, University of Exeter. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Previously, I received my Master degree, supervised by Prof. Muzhou Hou in Statistics from the School of Mathematics and Statistics, Central South University, China. During this period, I also did a three-month research work advised by Prof. Xin Li in University of Central Florida, America as a visiting scholar. Before that, I obtained my bachelor's degrees in Information and Computing Science from the School of Mathematics and Statistics, Central South University, China.
+
+My current research interests are focused on: (i) Robustness and Safety on Deep Neural Networks; (ii) Machine Learning, Statistical Learning and their applications.
