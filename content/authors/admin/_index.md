@@ -29,13 +29,13 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: University of Exeter
-    year: 2020-Present
+    year: Present
   - course: MSc in Statistics
     institution: Central South University
-    year: 2017-2020
+    year: 2020
   - course: BSc in Information and Computing Science
     institution: Central South University
-    year: 2013-2017
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
